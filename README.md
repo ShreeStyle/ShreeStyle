@@ -1,4 +1,4 @@
-- 👋 Hi, I’m _@ShreeStyle_
+- 👋 Hi, I’m _Dhanashree_.
 - 👀 I’m interested in computers.
 - 🌱 I’m currently learning Java.
 
